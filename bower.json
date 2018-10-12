@@ -1,0 +1,13 @@
+{
+  "name": "live-ball",
+  "description": "",
+  "main": "",
+  "authors": [
+    "hakan <yilmaz076@hotmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/yilmaz076/socketio-live-ball",
+  "dependencies": {
+    "angular": "^1.7.5"
+  }
+}
